@@ -33,6 +33,7 @@
 <p><a href="https://www.buymeacoffee.com/Gio.Gio"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Gio.Gio" /></a></p><br>
 
 <br>
+<h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pabloescobar1337&show_icons=true&locale=en" alt="pabloescobar1337" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pabloescobar1337&" alt="pabloescobar1337" /></p>
