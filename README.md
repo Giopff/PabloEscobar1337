@@ -3,23 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabloescobar1337&label=Profile%20views&color=0e75b6&style=flat" alt="pabloescobar1337" /> </p>
 
-- 🔭 I’m currently working on [Yes](yes.link)
+- 🔭 I’m currently working on [Coming soon](https://github.com/PabloEscobar1337)
 
 - 🌱 I’m currently learning **Everything I can**
 
-- 👯 I’m looking to collaborate on [no](no.link)
+- 👯 I’m looking to collaborate on [Coming soon](https://github.com/PabloEscobar1337)
 
-- 🤝 I’m looking for help with [a](a)
-
-- 👨‍💻 All of my projects are available at [no](no)
-
-- 📝 I regularly write articles on [no](no)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/PabloEscobar1337)
 
 - 💬 Ask me about **Everything, I'll see how can I help**
 
 - 📫 How to reach me **Pablo Escobar#4338 on discord**
-
-- 📄 Know about my experiences [no](no)
 
 - ⚡ Fun fact **Life is a joke**
 
