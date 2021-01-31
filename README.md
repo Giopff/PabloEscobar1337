@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Everything, I'll see how can I help**
 
-- 📫 How to reach me **Pablo Escobar#4338 on discord**
+- 📫 How to reach me **Pablo Escobar#1337 on discord**
 
 - ⚡ Fun fact **Life is a joke**
 
