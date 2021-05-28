@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Everything, I'll see how can I help**
 
-- 📫 How to reach me **Pablo Escobar#1337 on discord**
+- 📫 How to reach me **Pablo Escobar#8176 on discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
