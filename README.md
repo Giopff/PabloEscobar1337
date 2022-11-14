@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gio</h1>
-<h3 align="center">I'm an average coding enjoyer 😅</h3>
+<h3 align="center">I'm a talanted programmer from georgia 😅</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabloescobar1337&label=Profile%20views&color=0e75b6&style=flat" alt="pabloescobar1337" /> </p>
 
-- 🔭 I’m currently working on [Coming soon](https://github.com/PabloEscobar1337)
-
 - 🌱 I’m currently learning **Everything I can**
-
-- 👯 I’m looking to collaborate on [Coming soon](https://github.com/PabloEscobar1337)
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/PabloEscobar1337)
 
 - 💬 Ask me about **Everything, I'll see how can I help**
 
-- 📫 How to reach me **Pablo Escobar#8176 on discord**
 
 
 
