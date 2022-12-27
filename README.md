@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gio</h1>
-<h3 align="center">I'm a talanted programmer from georgia 😅</h3>
+<h3 align="center">I'm a talented programmer from georgia 😅</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabloescobar1337&label=Profile%20views&color=0e75b6&style=flat" alt="pabloescobar1337" /> </p>
 
